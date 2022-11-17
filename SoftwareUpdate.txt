@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
