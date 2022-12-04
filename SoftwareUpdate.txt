@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Elaborate Train and Predict mode docs arguments (#8137)
