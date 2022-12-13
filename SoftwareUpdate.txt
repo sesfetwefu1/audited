@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
