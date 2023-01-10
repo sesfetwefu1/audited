@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Hold failed upload metrics and upload with next upload metrics (#8513)
