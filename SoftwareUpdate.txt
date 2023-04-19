@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
