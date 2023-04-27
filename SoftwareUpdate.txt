@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Python refactorings and simplifications (#7549)
