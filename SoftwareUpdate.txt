@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Clarify triton server boolean value (#8532)
