@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
