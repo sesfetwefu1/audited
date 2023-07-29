@@ -1,1 +1,1 @@
-add logs
+fix for KeyError: 'epoch' (#48)
