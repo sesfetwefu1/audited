@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Batch inference fixes (#8854)
