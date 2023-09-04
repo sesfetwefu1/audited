@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
