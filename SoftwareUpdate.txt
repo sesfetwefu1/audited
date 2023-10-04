@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
