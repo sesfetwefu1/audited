@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Add horizontal Mosaic3 augmentation (#6898)
