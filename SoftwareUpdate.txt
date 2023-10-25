@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
