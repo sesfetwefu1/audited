@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
