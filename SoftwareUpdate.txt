@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Compare plt.get_backend() in lowercase (#8409)
