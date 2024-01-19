@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
