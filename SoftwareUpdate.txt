@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
