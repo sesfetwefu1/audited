@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Add estimate_speed(region_color) parameter (#8285)
