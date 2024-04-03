@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
