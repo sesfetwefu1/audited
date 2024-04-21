@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
