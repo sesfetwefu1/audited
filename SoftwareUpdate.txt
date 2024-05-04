@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
